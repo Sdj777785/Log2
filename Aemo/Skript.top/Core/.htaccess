@@ -1,0 +1,4 @@
+
+Order Allow,Deny
+Allow from all
+ deny from 104.192.74.45
